@@ -1,0 +1,10 @@
+{
+  "id": "mish-backlinks",
+  "name": "mish.backlinks",
+  "version": "1.0.0",
+  "minAppVersion": "1.15.0",
+  "description": "A backlinks pane styled like a terminal: starship prompt, eza-style tree with context lines, tiny command line, and an unlinked-mentions tab.",
+  "author": "mishti",
+  "authorUrl": "https://github.com/mishtiiikrishnaa",
+  "isDesktopOnly": true
+}
